@@ -53,7 +53,7 @@ You can test the it on [THIS SITE](https://ed0.it/freetime)!
 - Edit line 40 of **index.html** with the invitation link to your server:
 
 ```html
-<a href="https://discord.com/invite/q773tGD">
+<a href="https://discord.com/invite/EE7MQukrpk">
     <button class="acceptBtn">Accept Invite</button>
 </a>
 ```
