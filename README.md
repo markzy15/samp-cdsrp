@@ -1,5 +1,8 @@
 # Discord Invite Custom
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/774cb56c294841e29eb28305357e19c3)](https://app.codacy.com/gh/markzy15/samp-cdsrp?utm_source=github.com&utm_medium=referral&utm_content=markzy15/samp-cdsrp&utm_campaign=Badge_Grade)
+
+
 A dynamic template to have a unique invitation page to your Discord server!
 
 ---
